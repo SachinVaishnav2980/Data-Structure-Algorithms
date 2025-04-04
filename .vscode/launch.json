@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRotatedArray",
+            "request": "launch",
+            "mainClass": "SearchInRotatedArray",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "NumberSmallerThanNumber",
+            "request": "launch",
+            "mainClass": "NumberSmallerThanNumber",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "PermutationArray",
+            "request": "launch",
+            "mainClass": "PermutationArray",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Arrayinit",
+            "request": "launch",
+            "mainClass": "Arrayinit",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Areaofcircle",
+            "request": "launch",
+            "mainClass": "Areaofcircle",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Areaofeqtriangle",
+            "request": "launch",
+            "mainClass": "Areaofeqtriangle",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Areaofrectangle",
+            "request": "launch",
+            "mainClass": "Areaofrectangle",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Areaoftriangle",
+            "request": "launch",
+            "mainClass": "Areaoftriangle",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Armstrongnum",
+            "request": "launch",
+            "mainClass": "Armstrongnum",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Evenodd",
+            "request": "launch",
+            "mainClass": "Evenodd",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Greaterno",
+            "request": "launch",
+            "mainClass": "Greaterno",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "GreetingName",
+            "request": "launch",
+            "mainClass": "GreetingName",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "HcfLcm",
+            "request": "launch",
+            "mainClass": "HcfLcm",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Integermanipulation",
+            "request": "launch",
+            "mainClass": "Integermanipulation",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Methodoverloading",
+            "request": "launch",
+            "mainClass": "Methodoverloading",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "MultiplicationTable",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Palindromenum",
+            "request": "launch",
+            "mainClass": "Palindromenum",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Pythagoreantriplet",
+            "request": "launch",
+            "mainClass": "Pythagoreantriplet",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "SiCi",
+            "request": "launch",
+            "mainClass": "SiCi",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "SumUntilReqNum",
+            "request": "launch",
+            "mainClass": "SumUntilReqNum",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        }
+    ]
+}
