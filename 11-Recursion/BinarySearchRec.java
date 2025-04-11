@@ -1,4 +1,4 @@
-public class BinarySearch {
+public class BinarySearchRec {
     public static void main(String[] args) {
         int []arr={12,43,54,67,87,90};
         int target=87;
