@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PowerOf2",
+            "request": "launch",
+            "mainClass": "PowerOf2",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
             "name": "Solution",
             "request": "launch",
             "mainClass": "Solution",
