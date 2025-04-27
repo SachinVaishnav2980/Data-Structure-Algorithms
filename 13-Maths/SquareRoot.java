@@ -3,11 +3,11 @@ public class SquareRoot {
         System.out.println(root(40));
     }
 
-    public static float root(int n){
-        float start=1;
-        float end=n;
+    public static int root(int n){
+        int start=1;
+        int end=n;
         while (start<=end) {
-            float mid=start+(end-start)/2;
+            int mid=start+(end-start)/2;
             if(mid*mid==n){
                 return mid;
             }else if(mid*mid>n){
