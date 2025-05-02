@@ -1,6 +1,6 @@
 public class SortingRec {
     public static void main(String[] args) {
-        int []arr={2,4,6,18,10};
+        int []arr={2,4,6,8,10};
         int index=0;
         System.out.println(sort(arr,index));
     }

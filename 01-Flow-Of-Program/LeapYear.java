@@ -8,7 +8,7 @@ public class LeapYear{
             System.out.println(year+" is Leap year");
         }
         else if(year%100==0){
-            System.out.println(year+" not a leap year but composite year");
+            System.out.println(year+" not a leap year but century year");
         }
         else if(year%4==0){
             System.out.println(year+" is a leap year");
