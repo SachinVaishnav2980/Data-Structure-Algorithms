@@ -8,18 +8,18 @@ public class SelectionSort {
     }
 
 
-    public static void selectionSort(int []arr){
-        for(int i=0;i<arr.length;i++){
-            int last=arr.length-i-1;
-            int max=maxIndex(arr,0,last);
-            swap(arr,max,last);
+    public static void selectionSort(int []nums){
+        for(int i=0;i<nums.length;i++){
+            int last=nums.length-i-1;
+            int max=maxIndex(nums,0,last);
+            swap(nums,max,last);
         }
     }
 
-    public static void swap(int []arr, int first, int last){
-        int temp=arr[first];
-        arr[first]=arr[last];
-        arr[last]=temp;
+    public static void swap(int []nums, int first, int last){
+        int temp=nums[first];
+        nums[first]=nums[last];
+        nums[last]=temp;
     }
 
     public static int maxIndex(int []nums, int start, int end){
