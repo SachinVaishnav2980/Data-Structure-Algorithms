@@ -17,13 +17,12 @@ public class Subset{
             for(int i=0;i<n;i++){
                 ArrayList<Integer> internal=new ArrayList<>(outer.get(i));
                 if(i>0 && nums[i]==nums[i-1]){
-
+                    
                 }
                 internal.add(num);
                 outer.add(internal);
             }
         }
-
         return outer;
     }
 
