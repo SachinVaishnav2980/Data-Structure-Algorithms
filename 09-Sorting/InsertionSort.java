@@ -9,20 +9,20 @@ public class InsertionSort {
 
     public static void insertionSort(int []arr){
         for(int i=1;i<arr.length;i++){
-            for(int j=i+1;j>0;j--){
-                if(arr[j]<arr[j-1]){
-                    swap(arr,j,j-1);
-                }else{
-                    break;
-                }
-            }
-            // int j=i-1;
-            // while(j>=0){
-            //     if(arr[j]>arr[j+1]){
-            //         swap(arr,j,j+1);
+            // for(int j=i-1;j>0;j--){
+            //     if(arr[j]<arr[j-1]){
+            //         swap(arr,j,j-1);
+            //     }else{
+            //         break;
             //     }
-            //     j--;
             // }
+            int j=i-1;
+            while(j>=0){
+                if(arr[j]>arr[j+1]){
+                    swap(arr,j,j+1);
+                }
+                j--;
+            }
         }
     }
 
