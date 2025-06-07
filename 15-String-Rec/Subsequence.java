@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Subsequence {
     public static void main(String[] args) {
-       subSequence("", "abc");
+       System.out.println(subSequenceList("", "abc"));
     }
 
     //Normally print them-
