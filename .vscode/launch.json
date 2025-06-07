@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubsetRec",
+            "request": "launch",
+            "mainClass": "SubsetRec",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "CheckArraySorted",
+            "request": "launch",
+            "mainClass": "CheckArraySorted",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Subsequence",
+            "request": "launch",
+            "mainClass": "Subsequence",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicatesString",
+            "request": "launch",
+            "mainClass": "RemoveDuplicatesString",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
             "name": "PowerOf2",
             "request": "launch",
             "mainClass": "PowerOf2",
