@@ -4,7 +4,7 @@ public class SortingRec {
         int index=0;
         System.out.println(sort(arr,index));
     }
-
+ 
     public static boolean sort(int []arr, int index){
         if(index==arr.length-1){
             return true;
