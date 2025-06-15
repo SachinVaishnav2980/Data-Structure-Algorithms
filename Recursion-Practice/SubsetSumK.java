@@ -1,12 +1,12 @@
 import java.util.ArrayList;
 public class SubsetSumK {
     public static void main(String[] args) {
-        int []arr={1,2,1};
-        int k=2;
-        // ArrayList<Integer> list=new ArrayList<>();
-        // ArrayList<ArrayList<Integer>> ans=subsetList(arr, k, 0, list, 0);
-        // System.out.println(ans);
-        System.out.println(subsetcount(arr, k, 0, 0));
+        int []arr={10,1,2,7,6,1,5};
+        int k=8;
+        ArrayList<Integer> list=new ArrayList<>();
+        ArrayList<ArrayList<Integer>> ans=subsetList(arr, k, 0, list, 0);
+        System.out.println(ans);
+        // System.out.println(subsetcount(arr, k, 0, 0));
 
 
     }
