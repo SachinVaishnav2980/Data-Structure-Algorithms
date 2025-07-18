@@ -1,0 +1,8 @@
+beans configutration using XAML notation
+<beans>
+<bean id="" class="">
+<property name="" ref=""/>
+</bean>
+<bean id="" class="">
+<property name="" ref=""/>
+</beans>

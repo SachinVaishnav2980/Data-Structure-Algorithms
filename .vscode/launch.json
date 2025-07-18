@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SingletonMain",
+            "request": "launch",
+            "mainClass": "Lecture2.SingletonMain",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
             "name": "SubsetRec",
             "request": "launch",
             "mainClass": "SubsetRec",

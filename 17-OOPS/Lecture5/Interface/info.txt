@@ -1,0 +1,6 @@
+1.Interfaces contains abstract classes, methods and functions
+2.access modifiers are by default public
+3.like classes but not completely
+4.implements keyword use to implement multiple Interfaces
+5.It does not follow any heirrachy like classes
+6.Two classes can implements same Interface doesn't matter who their parents are.

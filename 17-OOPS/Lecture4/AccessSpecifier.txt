@@ -1,0 +1,6 @@
+__________| Class  |  Package | SubClass(same Package) | SubClass (Different Package) | World (Diff Package and Not subclass) |
+Public    |   +    |    +      |         +             |               +              |        +                              |
+Protected |   +    |    +      |         +             |               +              |        _                              |
+Default   |   +    |    +      |         +             |               _              |        _                              |
+Private   |   +    |    _      |         _             |               _              |        _                              |  
+__________|________|___________|_______________________|______________________________|_______________________________________|   

@@ -7,12 +7,12 @@ public class KthPermutation {
     }
 
     public static String getPermutation(int n, int k) {
-        
+        return null;
     }
 
     public static void kthPermutation(int n, int k, List<String> list, int index){
         if(index==n){
-            list.add(null)
+            list.add(null);
         }
     }
 }
