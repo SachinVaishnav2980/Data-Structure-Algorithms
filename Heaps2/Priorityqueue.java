@@ -1,4 +1,4 @@
-// package Heaps2;
+package Heaps2;
 import java.util.PriorityQueue;
 public class Priorityqueue{
     public static void main(String[] args) {
