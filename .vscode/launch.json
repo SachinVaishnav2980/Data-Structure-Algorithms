@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PermutationTree",
+            "request": "launch",
+            "mainClass": "TreeTraversal.PermutationTree",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Priorityqueue",
+            "request": "launch",
+            "mainClass": "Priorityqueue",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "MinST",
+            "request": "launch",
+            "mainClass": "MinST",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "PracticeST",
+            "request": "launch",
+            "mainClass": "PracticeST",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "Countsort",
+            "request": "launch",
+            "mainClass": "Countsort",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "containsduplicate",
+            "request": "launch",
+            "mainClass": "containsduplicate",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
             "name": "SingletonMain",
             "request": "launch",
             "mainClass": "Lecture2.SingletonMain",
