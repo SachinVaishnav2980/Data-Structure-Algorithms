@@ -26,7 +26,7 @@ public class DecodeString {
                 for(int i=0;i<count;i++){
                     lastString.append(currStr);
                 }
-                currStr=strStack.pop().append(lastString)
+                currStr=strStack.pop().append(lastString);
             }else{
                 currStr.append(ch);
             }
