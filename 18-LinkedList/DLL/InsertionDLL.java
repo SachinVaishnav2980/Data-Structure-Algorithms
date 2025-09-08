@@ -1,4 +1,5 @@
-public class DeletionDLL {
+package DLL;
+public class InsertionDLL {
     public static void main(String[] args) {
         DLL list=new DLL();
         list.insertFirst(88);
@@ -8,9 +9,6 @@ public class DeletionDLL {
         list.insertLast(120);
         list.insertAtPos(200, 2);
         list.insertAfter(90, 75);
-
-        list.deleteFirst();
-        list.deleteEnd();
         list.display();
     }
 }
