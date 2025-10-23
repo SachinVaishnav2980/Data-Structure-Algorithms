@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestCommonPrefix",
+            "request": "launch",
+            "mainClass": "LongestCommonPrefix",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "SingleNumber3",
+            "request": "launch",
+            "mainClass": "BitManipulation.SingleNumber3",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "SplitArrayConsecutive",
+            "request": "launch",
+            "mainClass": "Heaps2.SplitArrayConsecutive",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "FindKClosestElement",
+            "request": "launch",
+            "mainClass": "Heaps2.FindKClosestElement",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "perm",
+            "request": "launch",
+            "mainClass": "perm",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "CourseSchedule3",
+            "request": "launch",
+            "mainClass": "Heaps2.CourseSchedule3",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "TrappingRainWater",
+            "request": "launch",
+            "mainClass": "TrappingRainWater",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "KthSmallestElementMatrix",
+            "request": "launch",
+            "mainClass": "Heaps2.KthSmallestElementMatrix",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoMaxHeap",
+            "request": "launch",
+            "mainClass": "Heaps2.MergeTwoMaxHeap",
+            "projectName": "Data Structure & Algorithm_a73bcf6c"
+        },
+        {
+            "type": "java",
             "name": "PermutationTree",
             "request": "launch",
             "mainClass": "TreeTraversal.PermutationTree",

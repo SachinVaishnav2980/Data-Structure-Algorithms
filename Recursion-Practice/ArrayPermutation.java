@@ -29,21 +29,21 @@ public class ArrayPermutation {
         }
     }
 
-    // public static void permutation2(int []arr, int index){
-    //     if(index==arr.length){
-    //         System.out.println(Arrays.toString(arr));
-    //         return;
-    //     }
-    //     for(int i=index;i<arr.length;i++){
-    //         swap(arr, i, index);
-    //         permutation2(arr, index+1);
-    //         swap(arr, i, index);
-    //     }
-    // }
+    public static void permutation2(int []arr, int index){
+        if(index==arr.length){
+            System.out.println(Arrays.toString(arr));
+            return;
+        }
+        for(int i=index;i<arr.length;i++){
+            swap(arr, i, index);
+            permutation2(arr, index+1);
+            swap(arr, i, index);
+        }
+    }
 
-    // public static void swap(int []arr, int first, int second){
-    //     int temp=arr[first];
-    //     arr[first]=arr[second];
-    //     arr[second]=temp;
-    // }
+    public static void swap(int []arr, int first, int second){
+        int temp=arr[first];
+        arr[first]=arr[second];
+        arr[second]=temp;
+    }
 }
