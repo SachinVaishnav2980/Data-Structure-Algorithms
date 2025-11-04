@@ -5,21 +5,17 @@ public class MaxSubarraySum {
     }
 
     public int maxSubArray(int[] nums) {
-        int i=0;
-        int j=i+1;
-        int sum=nums[0];
-        if(nums.length==1){
-            return nums[0];
-        }
-        while (i<n && j<n) {
-            if(nums[i]+nums[j]<=0){
-                i++;
-                j=i+1;
-            }else{
-                sum+=nums[j];
-                j++;
+        int currSum=0;
+        int maxSum=Integer.MIN_VALUE;
+
+        for(int i=0;i<nums.length;i++){
+            currSum+=nums[i];
+            maxSum=Math.max(maxSum, currSum);
+
+            if(currSum<0){
+                currSum=0;
             }
         }
-        return sum;
+        return maxSum;
     }
 }

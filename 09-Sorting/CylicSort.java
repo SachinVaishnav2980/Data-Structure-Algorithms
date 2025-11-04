@@ -10,7 +10,7 @@ public class CylicSort {
     public static void cyclicSort(int []arr){
         int i=0;
         while(i<arr.length){
-            int current=arr[i]-1;
+            int current=arr[i]-1; //i-1
             if(arr[i]!=arr[current]){
                 swap(arr,i,current);
             }else{

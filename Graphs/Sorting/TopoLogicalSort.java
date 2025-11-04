@@ -42,6 +42,10 @@ public class TopoLogicalSort {
     // }
 
     public ArrayList<Integer> topoSort(int V, int[][] edges) {
+
+        Stack<Integer> stack=new Stack<>();
+        stack.push(5);
+        stack.pop();    
         ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
         int inDegree[] = new int[V];
         Queue<Integer> queue=new LinkedList<>();

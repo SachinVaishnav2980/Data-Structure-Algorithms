@@ -8,7 +8,6 @@ public class Countsort {
         int min=Arrays.stream(arr).min().getAsInt();
         // countSort(arr, max);
         System.out.println(Arrays.toString(arr));
-
     }
 
     public static void countSort(int []arr, int max){
